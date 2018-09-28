@@ -1,0 +1,25 @@
+usn{
+	display:block;
+	color:black;
+	font-size:15px;
+	text-align:center;
+}
+
+name{
+		display:block;
+color:blue;
+font-size:15px;
+	text-align:center;
+}
+class{
+		display:block;
+	color:red;
+	font-size:15px;
+	text-align:center;
+}
+marks{
+		display:block;
+	color:purple;
+	font-size:15px;
+	text-align:center;
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="n.css"?>
+<students>
+
+<student>
+<usn>4VV15CS054</usn>
+<name>madhura</name>
+<class>7th sem</class>
+<marks>7.00</marks>
+</student>
+
+<student>
+<usn>4VV15CS053</usn>
+<name>meghana</name>
+<class>7th sem</class>
+<marks>7.20</marks>
+</student>
+
+<student>
+<usn>4VV15CS056</usn>
+<name>madhura r s</name>
+<class>7th sem</class>
+<marks>7.8</marks>
+</student>
+
+<student>
+<usn>4VV15CS057</usn>
+<name>manasa s</name>
+<class>7th sem</class>
+<marks>7.00</marks>
+</student>
+
+<student>
+<usn>4VV15CS065</usn>
+<name>nn</name>
+<class>7th sem</class>
+<marks>7.00</marks>
+</student>
+ </students>
